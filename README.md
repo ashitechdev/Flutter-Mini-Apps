@@ -45,6 +45,10 @@ You can explore this all binded in an Instagram guide all Together 👉 [Flutter
 After this,
 We are ready to implement our learnings and take things to Another level. ✊
 
+------
+before that
+ONE LAST THING !
+### [Learn to Contribute here.](https://github.com/ashitechdev/Learn-to-Contribute)
 -----
 
 #Our Mini APPS 
