@@ -11,12 +11,13 @@ You can easily send messages to new contacts without saving them with the help o
 The App uses basic WhatsApp API under the hood and provides a fast and minimalistic approach to get the Job done.
 
 **Flutter Packages Used-**
-  [url_launcher: ^5.7.10](https://pub.dev/packages/url_launcher)
+-  [url_launcher: ^5.7.10](https://pub.dev/packages/url_launcher)
 
   
 **Available for Platforms :**
--> Mobile Android + iOS
--> WebAPP  
+
+- Mobile Android + iOS
+- WebAPP  
 
 
 **TimeLine**
