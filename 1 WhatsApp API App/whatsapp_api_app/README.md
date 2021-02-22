@@ -1,8 +1,20 @@
-# whatsapp_api
+# flutter_whatsapp_api_app v1
 
-A new Flutter application.
+lib
+|
+|-Services
+|  |
+|   - api_service.dart 
+|
+|-Views
+|  |
+|   - homepage.dart 
+|
+|_main.dart 
 
-## Getting Started
+----------------------------
+
+## Getting Started with Flutter
 
 This project is a starting point for a Flutter application.
 
