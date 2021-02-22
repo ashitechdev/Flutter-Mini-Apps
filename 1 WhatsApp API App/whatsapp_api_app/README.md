@@ -2,15 +2,15 @@
 
 lib
 |
-|-Services
-|  |
+| - Services
+|   |
 |   - api_service.dart 
 |
-|-Views
-|  |
+| - Views
+|   |
 |   - homepage.dart 
 |
-|_main.dart 
+| - main.dart 
 
 ----------------------------
 
