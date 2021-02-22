@@ -51,7 +51,7 @@ ONE LAST THING !
 ### [Learn to Contribute here.](https://github.com/ashitechdev/Learn-to-Contribute)
 -----
 
-#Our Mini APPS 
+# Our Mini APPS 
 
 *Here is the list of Apps we will be making , breaking , exploring and improving in this series.*
 
