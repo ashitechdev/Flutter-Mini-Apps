@@ -12,7 +12,7 @@ I once asked my audience what do they want and most of the Content ideas people 
   ...and then we planned this MiniApps Series , making working apps covering all three concerns above.
 and we started our journey 🚀.
 
-## 1 StateManagement
+### 1 StateManagement
   |- [State-Management! The Hottest topic in Flutter Community.](https://www.instagram.com/p/CHpSyJsgxRa/)
   |- [State-Management with Provider - Easiest basics.](https://www.instagram.com/p/CHsCJMjgZV7/)
   |- [Make your first App with Provider.](https://www.instagram.com/p/CHui_P_Ayxt/)
@@ -22,7 +22,7 @@ and we started our journey 🚀.
   |- [Provider in Practice - Time APP](https://www.instagram.com/p/CH9cuNqApDF/)
   |- [Provider in Practice - ECom App Data Management](https://www.instagram.com/p/CIASHQ0gSph/)
   
-## 2 Enhancing UI
+### 2 Enhancing UI
   |- [Animations in FLutter - Introduction](https://www.instagram.com/p/CIIB8P7AJCk/)
   |- [Animations in FLutter](https://www.instagram.com/p/CGH41JbgXX9/)
 	 |- [Implicit Animations in Flutter.](https://www.instagram.com/p/CGZ4kS9ANMR/)
@@ -32,7 +32,7 @@ and we started our journey 🚀.
   |- BONUS: [Best Design Resources for Developers.](https://www.instagram.com/p/CIsCLvQg-M9/)
   |- BONUS: [Welcome Users Like a PRO.](https://www.instagram.com/p/CK3BXG-ghnO/)
 
-## 3 Working with APIs
+### 3 Working with APIs
   |- [Let's Fetch data from an API.](https://www.instagram.com/p/CIVSNtJADkg/)
   |- [Let's PUSH Data to an API.](https://www.instagram.com/p/CIZxiqvg1zL/)
   |- Bonus: [Flutter http() vs dio().](https://www.instagram.com/p/CIpPF2fgL_z/)
@@ -46,7 +46,7 @@ After this,
 We are ready to implement our learnings and take things to Another level. ✊
 
 
-#Our Mini APPS 
+##Our Mini APPS 
 
 *Here is the list of Apps we will be making , breaking , exploring and improving in this series.*
 
