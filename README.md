@@ -1,6 +1,6 @@
 # Welcome to Flutter-Mini-Apps
 
-👋 Hey, I am the admin of Instagram page @theflutterway.
+👋 Hey, I am the admin of Instagram page [@theflutterway](https://www.instagram.com/theflutterway/).
 
 I share my Learning around Flutter and  Mobile APP Developement.
 
@@ -14,11 +14,11 @@ and we started our journey 🚀.
 
 ## 1 StateManagement
   |- [State-Management! The Hottest topic in Flutter Community.](https://www.instagram.com/p/CHpSyJsgxRa/)
-	 |- [State-Management with Provider - Easiest basics.](https://www.instagram.com/p/CHsCJMjgZV7/)
-	 |- [Make your first App with Provider.](https://www.instagram.com/p/CHui_P_Ayxt/)
-	 |- [Deep Dive into Provider](https://www.instagram.com/p/CHzXtI5gOyx/)
-	 |- [SetState vs Provide. The Reality.](https://www.instagram.com/p/CH19AwEgg_z/)
-	 |- [Provider in Practice - Switch Themes](https://www.instagram.com/p/CH66lJsAurQ/)
+  |- [State-Management with Provider - Easiest basics.](https://www.instagram.com/p/CHsCJMjgZV7/)
+  |- [Make your first App with Provider.](https://www.instagram.com/p/CHui_P_Ayxt/)
+  |- [Deep Dive into Provider](https://www.instagram.com/p/CHzXtI5gOyx/)
+  |- [SetState vs Provide. The Reality.](https://www.instagram.com/p/CH19AwEgg_z/)
+  |- [Provider in Practice - Switch Themes](https://www.instagram.com/p/CH66lJsAurQ/)
   |- [Provider in Practice - Time APP](https://www.instagram.com/p/CH9cuNqApDF/)
   |- [Provider in Practice - ECom App Data Management](https://www.instagram.com/p/CIASHQ0gSph/)
   
@@ -37,6 +37,7 @@ and we started our journey 🚀.
   |- [Let's PUSH Data to an API.](https://www.instagram.com/p/CIZxiqvg1zL/)
   |- Bonus: [Flutter http() vs dio().](https://www.instagram.com/p/CIpPF2fgL_z/)
 
+-------
 
 You can explore this all binded in an Instagram guide all Together 👉 [Flutter MiniApps Series.](https://www.instagram.com/theflutterway/guide/flutter-mini-apps-series/17862996872166800/)
 
