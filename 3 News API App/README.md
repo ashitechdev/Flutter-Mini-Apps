@@ -1,14 +1,14 @@
 # Welcome to News API APP
 
-**Core Idea of the Application**
+**Core Idea of the Application**.
 to keep user Updated with Latest news of World.
 
 
-**Description**
+**Description**.
 You can get daily latest news of the World and can stay updated.
 
 The App uses basic News API under the hood and provides a fast and minimalistic approach to get the Job done.
-API Used - NYTimes API
+API Used - NYTimes API.
 
 Developed with [Google Flutter](https://github.com/flutter/flutter).
 The App uses [News API](https://developer.nytimes.com/apis) under the hood and provides a fast and minimalistic approach to get the Job done.
