@@ -56,8 +56,11 @@ ONE LAST THING !
 *Here is the list of Apps we will be making , breaking , exploring and improving in this series.*
 
 [**1 WhatsAPP API APP link**](https://github.com/ashitechdev/Flutter-Mini-Apps/tree/master/1%20WhatsApp%20API%20App)
+\n
 [**2 Quotes API APP link**](https://github.com/ashitechdev/Flutter-Mini-Apps/tree/master/2%20Quotes%20API%20App)
+\n
 [**3 News API APP link**](https://github.com/ashitechdev/Flutter-Mini-Apps/tree/master/2%20Quotes%20API%20App)
+\n
 
   ...4 releading on [12-3-21]
 
