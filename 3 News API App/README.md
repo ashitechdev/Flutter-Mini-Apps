@@ -21,11 +21,10 @@ The App uses [News API](https://developer.nytimes.com/apis) under the hood and p
   
 **Available for Platforms :**
 - Mobile Android + iOS
-- 
 
 **TimeLine**
 
-version 1 : [quotes_api_app](https://github.com/ashitechdev/Flutter-Mini-Apps/tree/master/2%20Quotes%20API%20App/quotes_api_app)
+version 1 : [flutter_news_nytapi](https://github.com/ashitechdev/Flutter-Mini-Apps/tree/master/3%20News%20API%20App/flutter_news_nytapi)
 (3-04-2021)
 
 Features:
