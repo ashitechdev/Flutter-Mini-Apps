@@ -45,7 +45,7 @@ class HomePage extends StatelessWidget {
                         Provider.of<HomePageController>(context, listen: false)
                             .getBasicDataByCityName(
                                 city: _textEditingController.text);
-                        ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+                        Scaffold.of(context).showSnackBar(SnackBar(
                           content: Text("Fetching Articles"),
                           backgroundColor: Colors.yellow[100],
                         ));
